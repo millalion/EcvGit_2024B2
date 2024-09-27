@@ -1,0 +1,7 @@
+Depuis mon terminal j'ai exécuté ces commandes :
+$ pwd
+/Users/cmoi/c/tres/profond/ce/chemin
+$ cd ../../../
+$ pwd
+Quelle va être l'affichage sur mon terminal si j'execute cette commande ?
+-> 
