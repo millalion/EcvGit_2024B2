@@ -1,4 +1,4 @@
 Je suis sur mon terminal.
 Je souhaite configurer mon "user.name" Git.
 Quelle commande dois-je lancer ?
--> 
+-> git config --global user.name "Millaion"
