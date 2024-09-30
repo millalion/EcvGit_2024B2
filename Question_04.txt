@@ -1,4 +1,5 @@
 Je suis dans mon terminal.
 Je souhaite me déplacer dans le répertoire "test".
 Quelle commande vais-je lancer ?
--> 
+-> cd test
+
