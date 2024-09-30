@@ -1,4 +1,4 @@
 Je suis dans mon terminal.
 Je souhaite créer le dossier "Test_B2".
 Quelle commande vais-je lancer ?
--> 
+-> mkdir Test_B2
