@@ -1,2 +1,3 @@
 A quoi sert Git ?
--> 
+-> Git est un outil qui permet de suivre les modifications de fichiers et de collaborer sur des projets de développement logiciel.
+
