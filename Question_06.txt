@@ -1,2 +1,2 @@
 Quelle commande unix permet de lister les fichiers ?
--> 
+-> ls
