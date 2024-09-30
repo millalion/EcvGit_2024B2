@@ -1,3 +1,9 @@
 Créer une nouvelle branche nommée "feature/question_bonus".
 Écrire l'heure qu'il est ci-après et pousser ce fichier avec la réponse sur la branche "feature/question_bonus"
 -> 
+git checkout -b feature/question_bonus
+date > heure.txt
+git add heure.txt
+git commit -m "Ajout de l'heure actuelle dans le fichier heure.txt"
+git push -u origin feature/question_bonus
+
