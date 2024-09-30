@@ -1,4 +1,5 @@
 Je suis sur mon terminal dans le dossier linux.
 Je souhaite supprimer le dossier "MonDossier"
 Quelle commande dois-je lancer ?
--> 
+-> rm -r MonDossier
+
