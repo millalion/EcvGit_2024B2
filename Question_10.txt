@@ -1,4 +1,5 @@
 Je suis sur mon terminal.
 Je souhaite stocker l'historique des commandes que j'ai lancées dans le fichier "commandes.txt"
 Quelle commande dois-je lancer ?
--> 
+-> history > commandes.txt
+
