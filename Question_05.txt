@@ -1,4 +1,5 @@
 Je suis dans mon terminal.
 Je souhaite déplacer le fichier "test" dans le dossier parent.
 Quelle commande vais-je lancer ?
--> 
+-> mv test ..
+
